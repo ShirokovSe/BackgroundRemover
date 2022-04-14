@@ -57,6 +57,6 @@ Examples for every solution.
    <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/segment_nn.png" width="150"</td>
    </tr>
 </table>
-As you can see, suggested approach works with a good quality and it takes near 7-8 seconds on CPU to process it.
+
 
 
