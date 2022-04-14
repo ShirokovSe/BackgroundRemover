@@ -1,4 +1,4 @@
-# BackgroundRemover
+# BackgroundRemover(https://t.me/CleanBackBot)
 TelegramBot for removing background
 
 This TelegramBot is written with python and aiogram. He is able to remove background from your photo. For removing task bot has 3 different solution!
