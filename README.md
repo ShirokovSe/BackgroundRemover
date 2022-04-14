@@ -29,7 +29,7 @@ Examples for every solution.
     <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/galstuc.jpg" width="150">
     </td>
     <td>
-    <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/no_bg.png" width="150">
+    <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/no-bg.png" width="150">
     </td>
    <td>
    <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/rembg.png" width="150"</td>
@@ -48,7 +48,7 @@ Examples for every solution.
     <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/original2.jpg" width="150">
     </td>
     <td>
-    <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/no_bg_2.png" width="150">
+    <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/no-bg_2.png" width="150">
     </td>
    <td>
    <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/result_2.png" width="150"</td>
