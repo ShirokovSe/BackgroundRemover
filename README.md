@@ -13,18 +13,20 @@ The second solution is using API for the [Benzin.io](https://benzin.io/). These 
   
   
   
-  # The third solution
+# The third solution
   
-  The third solution is applying a rembg library. This library is based on the U2-Net neural network. 
+The third solution is applying a rembg library. This library is based on the U2-Net neural network. 
   
 
 # Examples
-Here is examples for every solution.
+
+Examples for every solution.
+
 <table align ="center">
   <tr><th>Original</th><th>Benzin.io</th><th>RemBG</th><th>DeepLabvv3</th>
   <tr>
     <td>
-    <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/galstuc.png" width="150">
+    <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/galstuc.jpg" width="150">
     </td>
     <td>
     <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/no_bg.png" width="150">
