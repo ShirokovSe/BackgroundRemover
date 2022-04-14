@@ -5,7 +5,7 @@ This TelegramBot is written with python and aiogram. He is able to remove backgr
 
 # The first solution
 
-The first solution is DeebLabv3 Resnet101 neural network is learnt on CocoDataset. During the learning was used bootstrap samples for decreasig overlearning, also was used scheduler for learning rate.
+The first solution is DeebLabv3 Resnet101 neural network is learnt on CocoDataset. During the learning was used bootstrap samples for decreasig overlearning, also was used scheduler for learning rate. The average iou metric for validation was got near 0.95. 
 
 # The second solution
 
