@@ -24,7 +24,7 @@ Here is examples for every solution.
   <tr><th>Original</th><th>Benzin.io</th><th>RemBG</th><th>DeepLabvv3</th>
   <tr>
     <td>
-    <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/no-bg.png" width="150">
+    <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/galstuc.png" width="150">
     </td>
     <td>
     <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/no_bg.png" width="150">
@@ -43,7 +43,7 @@ Here is examples for every solution.
   <tr><th>Original</th><th>Benzin.io</th><th>RemBG</th><th>DeepLabvv3</th>
   <tr>
     <td>
-    <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/original2.png" width="150">
+    <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/original2.jpg" width="150">
     </td>
     <td>
     <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/no_bg_2.png" width="150">
