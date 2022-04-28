@@ -23,7 +23,7 @@ The third solution is applying a rembg library. This library is based on the U2-
 Examples for every solution.
 
 <table align ="center">
-  <tr><th>Original</th><th>Benzin.io</th><th>RemBG</th><th>DeepLabvv3</th>
+  <tr><th>Original</th><th>Benzin.io</th><th>RemBG</th><th>DeepLabv3</th>
   <tr>
     <td>
     <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/galstuc.jpg" width="150">
@@ -42,7 +42,7 @@ Examples for every solution.
  Here is examples for every solution.
  
 <table align ="center">
-  <tr><th>Original</th><th>Benzin.io</th><th>RemBG</th><th>DeepLabvv3</th>
+  <tr><th>Original</th><th>Benzin.io</th><th>RemBG</th><th>DeepLabv3</th>
   <tr>
     <td>
     <img src="https://github.com/ShirokovSe/BackgroundRemover/blob/main/Examples/original2.jpg" width="150">
